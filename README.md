@@ -4,6 +4,8 @@
 
 My personal portfolio which features some of my github projects, future learning and technical skills.
 
+#### Live Version: [Portfolio](https://rimswebdev-portfolio.vercel.app/)
+
 ## Built With
 
 This project was built using these technologies:
@@ -60,7 +62,7 @@ Create React App Globally: [Create React App](https://github.com/facebook/create
 
 `npx create-react-app app-name`
 
-### Installation and Setup Instructions
+## Installation and Setup Instructions
 
 To get started you need to:
 
