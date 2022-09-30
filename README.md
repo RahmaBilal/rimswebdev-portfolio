@@ -27,7 +27,7 @@ Following are included features in project. (Only few are yet to be implemented)
 3. [x] Creating navicon using Ai and navicon generator (navbar brand)
 4. [x] Home page - link to work
 5. [x] About page - Skills & Resume/CV
-6. [ ] Enable anyone to download resume
+6. [x] Enable anyone to download resume
 7. [x] Projects Page - In progress and few completed projects
 8. [x] Each Project Card - Name, description with link to Live version and source code
 9. [x] Contact Button/Page - Anyone can send direct email
