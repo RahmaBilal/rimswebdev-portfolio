@@ -42,7 +42,7 @@ const ProjectsData = [
     live: "",
     source: "https://github.com/rimshub/cloud-storage-s3",
     description:  
-        "This challenge from frontendmentor tested my skills to create dropdown navigation menus, a common pattern on larger sites. It also has some nice basic layout challenge",
+        "Store images directly to Amazon S3 from user application, retrieve images from S3 bucket from anywhere on the web, and reduce the load on server",
   },
 
   {
